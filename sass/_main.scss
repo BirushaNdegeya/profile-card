@@ -1,0 +1,20 @@
+// RESET
+
+*,
+*::after,
+*::before {
+   margin: 0;
+   padding: 0;
+   box-sizing: border-box;
+   font-family: "Kumbh Sans", sans-serif;
+}
+
+
+// GENERAL STYLE
+
+html {
+   font-optical-sizing: auto;
+   font-weight: 400;
+   font-style: normal;
+   font-variation-settings: "YOPQ" 300;
+}
