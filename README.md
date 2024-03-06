@@ -9,7 +9,7 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 ### Links
 
 - Solution URL: [solution URL](https://profile-card-xi-one.vercel.app/)
-- Live Site URL: [live site URL](https://profile-card-xi-one.vercel.app/)
+- Live Site URL: [live site URL](https://www.frontendmentor.io/solutions/reponsive-profile-card-component-UE0Htfa-y3)
 
 ## My process
 
