@@ -45,6 +45,10 @@ body {
    justify-content: center;
    font-size: 18px;
    color: $DARK_GRAYISH_BLUE;
+   background-image: url('../assets/bg-pattern-top.svg'), url('../assets/bg-pattern-bottom.svg');
+   background-repeat: no-repeat, no-repeat;
+   background-position: right 48vw bottom 40vh, left 45vw top 44vh;
+   overflow: hidden;
 }
 
 // typography
