@@ -8,8 +8,8 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [solution URL](https://profile-card-xi-one.vercel.app/)
+- Live Site URL: [live site URL](https://profile-card-xi-one.vercel.app/)
 
 ## My process
 
@@ -20,11 +20,7 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 - Flexbox
 - CSS Grid
 - Mobile-first workflow
-- [React](https://reactjs.org/) - JS library
-- [Next.js](https://nextjs.org/) - React framework
-- [Styled Components](https://styled-components.com/) - For styles
-
-**Note: These are just examples. Delete this note and replace the list above with your own choices**
+- SCSS - CSS pre-processor
 
 ### What I learned
 
